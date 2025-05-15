@@ -1,2 +1,3 @@
 # yuke
 learning git
+yes
